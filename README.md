@@ -1,5 +1,5 @@
 # KinderHub | Front-End
-🔗 [Live Site](www.kinderhub.co.uk)
+🔗 [Live Site](https://kinderhub.co.uk)
 
 KinderHub is a web platform designed to help parents and caregivers discover, book, and manage local activities for young children. This repository contains the front-end code, built with modern technologies for a seamless and responsive user experience.
 
