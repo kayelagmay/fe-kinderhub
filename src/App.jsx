@@ -8,7 +8,6 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* More routes to come */}
       </Routes>
     </Router>
   );
